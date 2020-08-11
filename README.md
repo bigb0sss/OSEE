@@ -1,5 +1,8 @@
 # AWE/OSEE Preparation
 
+## Github
+- https://github.com/connormcgarr?tab=repositories
+
 ## Blog
 - https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/
 - http://infosecflash.com/2018/11/04/my-awe-experience/
